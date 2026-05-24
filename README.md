@@ -242,5 +242,5 @@ MIT Licence
 ### 👤 Author
 
 **[José Álvarez Dominguez]**
-* [GitHub Profile](https://github.com/alvarezdevnet)
+* [GitHub Profile](https://github.com/alvarezops)
 * [LinkedIn](https://www.linkedin.com/in/jadomin/)
